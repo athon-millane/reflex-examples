@@ -1,1 +1,0 @@
-web: chmod +x . && reflex init && reflex run --env prod --frontend-port 8080
